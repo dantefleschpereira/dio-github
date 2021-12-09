@@ -1,0 +1,7 @@
+Important Python Questions:
+
+1) Difference between list and tuples in Python?
+
+2) What is lambda in Python?
+
+
