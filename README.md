@@ -1,2 +1,2 @@
 # dio-github
-Projeto sobre Git/GitHub
+Repositório do Projeto sobre Git/GitHub
